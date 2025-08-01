@@ -1,0 +1,15 @@
+.delete {
+    background-color: red;
+    color: white;
+    height: 1rem;
+    width: 3rem;
+    border-radius: 1rem;
+    margin-left: 7rem;
+}
+h1 {
+    color: blueviolet;
+}
+.taskbtn {
+    background-color: green;
+    border-radius: 1rem;
+}
